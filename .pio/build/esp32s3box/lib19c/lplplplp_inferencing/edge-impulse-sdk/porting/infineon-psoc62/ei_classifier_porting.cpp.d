@@ -1,0 +1,4 @@
+.pio/build/esp32s3box/lib19c/lplplplp_inferencing/edge-impulse-sdk/porting/infineon-psoc62/ei_classifier_porting.cpp.o: \
+ lib/lplplplp_inferencing/src/edge-impulse-sdk/porting/infineon-psoc62/ei_classifier_porting.cpp \
+ lib/lplplplp_inferencing/src/edge-impulse-sdk/porting/infineon-psoc62/../ei_classifier_porting.h \
+ /Users/eggs/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_common/include/esp_idf_version.h

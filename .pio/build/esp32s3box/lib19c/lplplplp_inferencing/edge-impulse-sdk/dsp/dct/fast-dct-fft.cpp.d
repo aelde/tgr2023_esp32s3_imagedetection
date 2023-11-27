@@ -1,0 +1,33 @@
+.pio/build/esp32s3box/lib19c/lplplplp_inferencing/edge-impulse-sdk/dsp/dct/fast-dct-fft.cpp.o: \
+ lib/lplplplp_inferencing/src/edge-impulse-sdk/dsp/dct/fast-dct-fft.cpp \
+ lib/lplplplp_inferencing/src/edge-impulse-sdk/dsp/dct/fast-dct-fft.h \
+ lib/lplplplp_inferencing/src/edge-impulse-sdk/dsp/dct/../kissfft/kiss_fft.h \
+ lib/lplplplp_inferencing/src/edge-impulse-sdk/dsp/dct/../kissfft/../../porting/ei_classifier_porting.h \
+ /Users/eggs/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_common/include/esp_idf_version.h \
+ lib/lplplplp_inferencing/src/edge-impulse-sdk/dsp/dct/../returntypes.hpp \
+ lib/lplplplp_inferencing/src/edge-impulse-sdk/dsp/dct/../numpy.hpp \
+ lib/lplplplp_inferencing/src/edge-impulse-sdk/dsp/dct/../ei_vector.h \
+ lib/lplplplp_inferencing/src/edge-impulse-sdk/dsp/dct/../ei_alloc.h \
+ lib/lplplplp_inferencing/src/edge-impulse-sdk/dsp/dct/../memory.hpp \
+ lib/lplplplp_inferencing/src/edge-impulse-sdk/dsp/dct/../../porting/ei_classifier_porting.h \
+ lib/lplplplp_inferencing/src/edge-impulse-sdk/classifier/ei_aligned_malloc.h \
+ lib/lplplplp_inferencing/src/edge-impulse-sdk/classifier/../porting/ei_classifier_porting.h \
+ lib/lplplplp_inferencing/src/edge-impulse-sdk/dsp/dct/../config.hpp \
+ lib/lplplplp_inferencing/src/edge-impulse-sdk/dsp/dct/../numpy_types.h \
+ lib/lplplplp_inferencing/src/edge-impulse-sdk/dsp/ei_vector.h \
+ lib/lplplplp_inferencing/src/edge-impulse-sdk/dsp/dct/../returntypes.hpp \
+ lib/lplplplp_inferencing/src/edge-impulse-sdk/dsp/dct/../ei_utils.h \
+ lib/lplplplp_inferencing/src/edge-impulse-sdk/dsp/dct/../dct/fast-dct-fft.h \
+ lib/lplplplp_inferencing/src/edge-impulse-sdk/dsp/dct/../kissfft/kiss_fftr.h \
+ lib/lplplplp_inferencing/src/edge-impulse-sdk/dsp/dct/../kissfft/kiss_fft.h \
+ lib/lplplplp_inferencing/src/model-parameters/model_metadata.h \
+ lib/lplplplp_inferencing/src/edge-impulse-sdk/CMSIS/DSP/Include/dsp/statistics_functions.h \
+ lib/lplplplp_inferencing/src/edge-impulse-sdk/CMSIS/DSP/Include/arm_math_types.h \
+ lib/lplplplp_inferencing/src/edge-impulse-sdk/CMSIS/Core/Include/cmsis_compiler.h \
+ lib/lplplplp_inferencing/src/edge-impulse-sdk/CMSIS/Core/Include/cmsis_gcc.h \
+ lib/lplplplp_inferencing/src/edge-impulse-sdk/CMSIS/DSP/Include/arm_math_memory.h \
+ lib/lplplplp_inferencing/src/edge-impulse-sdk/CMSIS/DSP/Include/dsp/none.h \
+ lib/lplplplp_inferencing/src/edge-impulse-sdk/CMSIS/DSP/Include/dsp/utils.h \
+ lib/lplplplp_inferencing/src/edge-impulse-sdk/CMSIS/DSP/Include/dsp/basic_math_functions.h \
+ lib/lplplplp_inferencing/src/edge-impulse-sdk/CMSIS/DSP/Include/dsp/fast_math_functions.h \
+ lib/lplplplp_inferencing/src/edge-impulse-sdk/dsp/dct/../memory.hpp

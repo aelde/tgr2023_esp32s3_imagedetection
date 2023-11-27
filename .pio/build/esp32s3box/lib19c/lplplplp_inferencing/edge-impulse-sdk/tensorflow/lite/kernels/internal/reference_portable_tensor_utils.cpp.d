@@ -1,0 +1,16 @@
+.pio/build/esp32s3box/lib19c/lplplplp_inferencing/edge-impulse-sdk/tensorflow/lite/kernels/internal/reference_portable_tensor_utils.cpp.o: \
+ lib/lplplplp_inferencing/src/edge-impulse-sdk/tensorflow/lite/kernels/internal/reference_portable_tensor_utils.cpp \
+ lib/lplplplp_inferencing/src/edge-impulse-sdk/third_party/gemmlowp/fixedpoint/fixedpoint.h \
+ lib/lplplplp_inferencing/src/edge-impulse-sdk/third_party/gemmlowp/fixedpoint/../internal/detect_platform.h \
+ lib/lplplplp_inferencing/src/edge-impulse-sdk/tensorflow/lite/kernels/internal/common.h \
+ lib/lplplplp_inferencing/src/edge-impulse-sdk/tensorflow/lite/kernels/internal/cppmath.h \
+ lib/lplplplp_inferencing/src/edge-impulse-sdk/tensorflow/lite/kernels/internal/optimized/neon_check.h \
+ lib/lplplplp_inferencing/src/edge-impulse-sdk/tensorflow/lite/kernels/internal/types.h \
+ lib/lplplplp_inferencing/src/edge-impulse-sdk/tensorflow/lite/kernels/internal/compatibility.h \
+ lib/lplplplp_inferencing/src/edge-impulse-sdk/tensorflow/lite/portable_type_to_tflitetype.h \
+ lib/lplplplp_inferencing/src/edge-impulse-sdk/tensorflow/lite/core/c/common.h \
+ lib/lplplplp_inferencing/src/edge-impulse-sdk/tensorflow/lite/core/c/c_api_types.h \
+ lib/lplplplp_inferencing/src/edge-impulse-sdk/tensorflow/lite/kernels/op_macros.h \
+ lib/lplplplp_inferencing/src/edge-impulse-sdk/tensorflow/lite/micro/debug_log.h \
+ lib/lplplplp_inferencing/src/edge-impulse-sdk/tensorflow/lite/kernels/internal/runtime_shape.h \
+ lib/lplplplp_inferencing/src/edge-impulse-sdk/tensorflow/lite/kernels/internal/reference_portable_tensor_utils_impl.h
