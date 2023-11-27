@@ -1,2 +1,1 @@
-# tgr2023_esp32s3_image-detection
-# tgr2023-esp32s23-imagedetect
+image-detection with esp32-s3 (tg2023 ubu)
